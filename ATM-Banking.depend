@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1699827890 source:c:\users\dudu\onedrive\ambiente de trabalho\personal projects\c\atm-banking\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1701721673 source:c:\users\dudu\onedrive\ambiente de trabalho\personal projects\c\verabank\main.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1713920854 source:c:\users\dudu\onedrive\documentos\personal projects\c\verabank\main.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
